@@ -6,5 +6,4 @@ Instructions:
 "Run amazon_book_analysis.ipynb with Python. 
 Open AmazonBookReviewDashboard.pbix in Power BI."
 
-Screenshots: ![Dashboard](images/dashboard.png).
-Author: "Munezero Olivier Hugue, August 4, 2025".
+Author: "Munezero Olivier Hugue, August 4, 2025".<img width="1593" height="904" alt="Dashboard" src="https://github.com/user-attachments/assets/66766e6a-740b-44b5-a5c3-d0f775abbc50" />
